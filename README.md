@@ -9,9 +9,9 @@
 | Dataset ID | `855648` |
 | Location | Mid-Atlantic States |
 | Category | Restaurants |
-| Full dataset size | 454 records |
-| Free sample size | 45 records (9.91%) |
-| Last export | 2026-04-09T10:54:32.800369+00:00 |
+| Full dataset size | 451 records |
+| Free sample size | 45 records (9.98%) |
+| Last export | 2026-04-16T10:48:39.026190+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-mid-atlantic-states-us-sample-855648/releases/download/sample-latest/beamstation_855648_food_and_drink-xx-all_SAMPLE_DIST.csv) |
 
 ## What is in this sample
