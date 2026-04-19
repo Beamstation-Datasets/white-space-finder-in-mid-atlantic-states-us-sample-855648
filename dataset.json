@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in the Mid-Atlantic US (PA, NJ, MD, VA, DE, DC, WV) that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Mid-Atlantic States, US",
-  "export_job_id": "7dc75d6e-6291-42ff-97d6-ba2dc32df940",
+  "export_job_id": "86ba1cf6-5e71-4146-81f3-d1bc913eba47",
   "github_org": "Beamstation-Datasets",
   "id_short": 855648,
   "location_name": "Mid-Atlantic States",
   "location_type": "region",
   "repo_name": "white-space-finder-in-mid-atlantic-states-us-sample-855648",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/855648/beamstation_855648_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_pct": 9.91,
+  "sample_pct": 9.98,
   "sample_records": 45,
-  "sample_sha256": "3fb7e9c7d70cd139f65b28a57d685887d9d5472148383e3f271aa0fd094dbcd4",
-  "sample_size_bytes": 185110,
-  "total_records": 454,
-  "updated_at": "2026-04-09T10:54:32.800369+00:00"
+  "sample_sha256": "c57b857fa3528f6f7c1743fe48c1109fa12710b861c1449131ca1b5e740ada9b",
+  "sample_size_bytes": 184115,
+  "total_records": 451,
+  "updated_at": "2026-04-16T10:48:39.026190+00:00"
 }
