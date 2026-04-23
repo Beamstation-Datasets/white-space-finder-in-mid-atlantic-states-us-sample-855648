@@ -1,12 +1,12 @@
 {
-  "export_job_id": "86ba1cf6-5e71-4146-81f3-d1bc913eba47",
+  "export_job_id": "3223fbd0-4e4b-4dbc-9c3e-3360336bb517",
   "id_short": 855648,
-  "published_at": "2026-04-19T19:34:32Z",
+  "published_at": "2026-04-23T19:42:19Z",
   "repo_name": "white-space-finder-in-mid-atlantic-states-us-sample-855648",
   "sample_asset_name": "beamstation_855648_food_and_drink-xx-all_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/855648/beamstation_855648_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "c57b857fa3528f6f7c1743fe48c1109fa12710b861c1449131ca1b5e740ada9b",
-  "sample_size_bytes": 184115,
-  "total_records": 451
+  "sample_records": 30,
+  "sample_sha256": "a05e9a27b31d907595c41bc8bfa269e6e9bb19e66eec8baccc43bc3351d60617",
+  "sample_size_bytes": 130835,
+  "total_records": 304
 }
